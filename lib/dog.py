@@ -9,8 +9,6 @@ class Dog:
 
 fido = Dog()
 fido.bark()
-fido.sit()
 
 snoopy = Dog()
 snoopy.bark()
-snoopy.sit()
